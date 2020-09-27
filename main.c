@@ -42,6 +42,6 @@ while(calclat(&qlat, &lat) <= calcm2(&larg, &comp)){
 //printf("\n\nCalclat: %f", calclat(&qlat, &lat));
 //printf("\n\nCalcm2: %f", calcm2(&larg, &comp));
 
-printf("\n\n\nSerao necessarias %1.f latas de verniz para envernizar o deque de madeira.", qlat);
+printf("\n\n\nSerao necessarias %1.f latas de verniz para envernizar a superficie do deque de madeira.", qlat);
 
 }
